@@ -25,8 +25,8 @@ This project helped me gain hands-on experience with:
 • UI structuring
 • Writing cleaner and more maintainable frontend code
 
-📌 GitHub Repository
-👉 Link in comments
+📌 Linkedin Link
+👉 (https://www.linkedin.com/posts/akash-vaghela-83b301396_reactjs-frontenddevelopment-webdevelopment-activity-7423659651772354560-qxLd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGE4j28BJMb3-zLD674Zt8inM5ak8AxVfcg)
 
 I’m continuously learning and building — feedback & suggestions are always welcome 🙌
 
